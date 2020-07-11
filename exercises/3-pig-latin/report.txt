@@ -30,4 +30,4 @@ Failures:
 .    Expected undefined to equal 'ethay ickquay ownbray oxfay'..
 
 9 specs, 9 failures
-Finished in 0.008 seconds
+Finished in 0.041 seconds

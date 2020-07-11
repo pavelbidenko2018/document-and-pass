@@ -1,33 +1,6 @@
 Started
-.F..F..F..F..F..F..F..F..F.
+...........................
 
-Failures:
-1) fibonacci works
-.    Expected undefined to equal 3..
 
-2) fibonacci works
-.    Expected undefined to equal 8..
-
-3) fibonacci works
-.    Expected undefined to equal 55..
-
-4) fibonacci works
-.    Expected undefined to equal 610..
-
-5) fibonacci works
-.    Expected undefined to equal 75025..
-
-6) fibonacci doesn't accept negatives
-.    Expected undefined to equal 'OOPS'..
-
-7) fibonacci DOES accept strings
-.    Expected undefined to equal 1..
-
-8) fibonacci DOES accept strings
-.    Expected undefined to equal 1..
-
-9) fibonacci DOES accept strings
-.    Expected undefined to equal 21..
-
-9 specs, 9 failures
-Finished in 0.008 seconds
+9 specs, 0 failures
+Finished in 0.041 seconds

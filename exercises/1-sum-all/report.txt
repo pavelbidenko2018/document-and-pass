@@ -1,24 +1,6 @@
 Started
-.F..F..F..F..F..F.
+..................
 
-Failures:
-1) sumAll sums numbers within the range
-.    Expected undefined to equal 10..
 
-2) sumAll works with large numbers
-.    Expected undefined to equal 8002000..
-
-3) sumAll works with larger number first
-.    Expected undefined to equal 7626..
-
-4) sumAll returns ERROR with negative numbers
-.    Expected undefined to equal 'ERROR'..
-
-5) sumAll returns ERROR with non-number parameters
-.    Expected undefined to equal 'ERROR'..
-
-6) sumAll returns ERROR with non-number parameters
-.    Expected undefined to equal 'ERROR'..
-
-6 specs, 6 failures
-Finished in 0.006 seconds
+6 specs, 0 failures
+Finished in 0.02 seconds

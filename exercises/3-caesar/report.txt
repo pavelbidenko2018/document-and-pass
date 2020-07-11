@@ -1,27 +1,14 @@
+Hello, World!
 Started
-.F..F..F..F..F..F..F.
+B
+...Bbb
+...Mjqqt, Btwqi!
+...Hello, World!
+...A
+...Ebiil, Tloia!
+...Ebiil, Tloia!
+...
 
-Failures:
-1) caesar works with single letters
-.    Expected undefined to equal 'B'..
 
-2) caesar works with words
-.    Expected undefined to equal 'Bbb'..
-
-3) caesar works with phrases
-.    Expected undefined to equal 'Mjqqt, Btwqi!'..
-
-4) caesar works with negative shift
-.    Expected undefined to equal 'Hello, World!'..
-
-5) caesar wraps
-.    Expected undefined to equal 'A'..
-
-6) caesar works with large shift factors
-.    Expected undefined to equal 'Ebiil, Tloia!'..
-
-7) caesar works with large negative shift factors
-.    Expected undefined to equal 'Ebiil, Tloia!'..
-
-7 specs, 7 failures
-Finished in 0.005 seconds
+7 specs, 0 failures
+Finished in 0.04 seconds

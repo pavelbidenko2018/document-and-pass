@@ -1,15 +1,6 @@
 Started
-.F..F..F.
+.........
 
-Failures:
-1) findTheOldest finds the oldest person!
-.    TypeError: Cannot read property 'name' of undefined.
 
-2) findTheOldest finds the oldest person if someone is still living
-.    TypeError: Cannot read property 'name' of undefined.
-
-3) findTheOldest finds the oldest person if the OLDEST is still living
-.    TypeError: Cannot read property 'name' of undefined.
-
-3 specs, 3 failures
-Finished in 0.003 seconds
+3 specs, 0 failures
+Finished in 0.015 seconds

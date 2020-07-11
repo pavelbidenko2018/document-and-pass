@@ -1,18 +1,6 @@
 Started
-.F..F..F..F.
+............
 
-Failures:
-1) reverseString reverses single word
-.    Expected undefined to equal 'olleh'..
 
-2) reverseString reverses multiple words
-.    Expected undefined to equal 'ereht olleh'..
-
-3) reverseString works with numbers and punctuation
-.    Expected undefined to equal '!cba !321'..
-
-4) reverseString works with blank strings
-.    Expected undefined to equal ''..
-
-4 specs, 4 failures
-Finished in 0.004 seconds
+4 specs, 0 failures
+Finished in 0.015 seconds

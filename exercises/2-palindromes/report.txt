@@ -1,21 +1,6 @@
 Started
-.F..F..F..F..F.
+...............
 
-Failures:
-1) palindromes works with single words
-.    Expected undefined to equal true..
 
-2) palindromes works with punctuation
-.    Expected undefined to equal true..
-
-3) palindromes works with multiple words
-.    Expected undefined to equal true..
-
-4) palindromes works with multiple words
-.    Expected undefined to equal true..
-
-5) palindromes doesn't just always return true
-.    Expected undefined to equal false..
-
-5 specs, 5 failures
-Finished in 0.006 seconds
+5 specs, 0 failures
+Finished in 0.018 seconds

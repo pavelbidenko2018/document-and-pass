@@ -1,27 +1,6 @@
 Started
-.F..F..F..F..F..F..F.
+.....................
 
-Failures:
-1) removeFromArray removes a single value
-.    Expected undefined to equal [ 1, 2, 4 ]..
 
-2) removeFromArray removes multiple values
-.    Expected undefined to equal [ 1, 4 ]..
-
-3) removeFromArray ignores non present values
-.    Expected undefined to equal [ 1, 2, 3, 4 ]..
-
-4) removeFromArray ignores non present values, but still works
-.    Expected undefined to equal [ 1, 3, 4 ]..
-
-5) removeFromArray can remove all values
-.    Expected undefined to equal [  ]..
-
-6) removeFromArray works with strings
-.    Expected undefined to equal [ 2, 'ho' ]..
-
-7) removeFromArray only removes same type
-.    Expected undefined to equal [ 1, 2 ]..
-
-7 specs, 7 failures
-Finished in 0.008 seconds
+7 specs, 0 failures
+Finished in 0.029 seconds
